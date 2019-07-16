@@ -25,7 +25,13 @@ The filenames of the annotation images should be same as the filenames of the RG
 
 ## Usage via command line 
  
-##
+### Visualizing the prepared data
+'''
+python -m keras_segmentation verify_dataset \
+ --images_path="dataset1/images_prepped_train/" \
+ --segs_path="dataset1/annotations_prepped_train/"  \
+ --n_classes=50
+'''
 
 
 
