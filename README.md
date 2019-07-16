@@ -60,3 +60,10 @@ python -m keras_segmentation predict \
  --input_path="dataset1/images_prepped_test/" \
  --output_path="path_to_predictions"
  ```
+## References
+1. https://github.com/divamgupta/image-segmentation-keras<br/>
+2. https://github.com/GeorgeSeif/Semantic-Segmentation-Suite<br/>
+3. https://github.com/aurora95/Keras-FCN<br/>
+4. http://cocodataset.org/#stuff-2018<br/>
+5. https://arxiv.org/abs/1612.03716<br/>
+
